@@ -7,7 +7,7 @@ public class Reynoldsnumber {
         float D = x.nextFloat();
         System.out.println("Enter velocity :");
         float V = x.nextFloat();
-        System.out.println("Enter viscosity");
+        System.out.println("Enter viscosity ");
         float mu = x.nextFloat();
         System.out.println("Enter density :");
         float rho = x.nextFloat();
